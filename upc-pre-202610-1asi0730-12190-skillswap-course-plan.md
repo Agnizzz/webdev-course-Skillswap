@@ -22,9 +22,9 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
 **Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
 * **Descripción:** Acá le metemos más onda a la página agregando listas de cosas, fotos y links que te lleven a otros lados de internet.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=IUwOF8666ms)
 * **Consejos clave:** Aprende a usar las etiquetas `<ul>`, `<li>`, `<img>`, y `<a>`.
-* **Práctica:** [Clic para programar en CodePen](#)
+* **Práctica:** [Clic para programar en CodePen](https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0)
 
 🟠 **Módulo 3: Poniéndolo bonito con CSS (A cargo de: Alexandra Yamile Meza Soza)**
 **Lecciones 5 y 6: Hola CSS, dale color a tu vida (12 minutos)**
