@@ -1,0 +1,39 @@
+#Guion - Módulo 2: Poniendo más cosas en la página
+
+¡Hola a todos! ¿Cómo están? En el video anterior ya vieron qué es HTML y cómo se estructura una página web. Ahora vamos a llevar esto al siguiente nivel.
+
+A veces nuestra página se ve muy vacía con solo la estructura básica. Hoy vamos a aprender a poner párrafos, listas, imágenes y enlaces en nuestra página.
+
+Abran el enlace que les dejamos en la descripción. Van a ver una página en blanco lista para trabajar.
+
+Primero, vamos a agregar texto con la etiqueta de **párrafo**. En la cajita de HTML escribimos `<p>`, y entre la etiqueta de apertura y la de cierre ponemos cualquier texto que queramos. Por ejemplo: `<p>Hola, me llamo Juan y estoy aprendiendo a desarrollar páginas web.</p>`.
+
+¡Pum! Apareció nuestro texto en la página.
+
+Algo curioso: aunque en el código presionen Enter varias veces, el navegador lo ignora completamente. El espacio entre párrafos lo crea la etiqueta `<p>`, no los saltos de línea del código. Pruébenlo y verán que la página lo sigue tomando como una sola línea.
+
+Ahora vamos con las **listas**. Hay dos tipos. La primera es `<ul>`, también llamada lista sin orden. Para cada elemento de la lista usamos la etiqueta `<li>`. Así:
+
+```
+<ul>
+  <li>Programar</li>
+  <li>Ver videos</li>
+  <li>Jugar videojuegos</li>
+</ul>
+```
+
+¡Y aparecen con viñetas! Sin ninguna enumeración.
+
+El segundo tipo es `<ol>`, la lista ordenada. Pongan los mismos elementos pero con `<ol>` en vez de `<ul>` y vean la diferencia — el navegador los numera solo: 1, 2, 3. Se usa cuando el orden importa, como pasos o instrucciones.
+
+Ahora pasemos a algo bastante fundamental: las **imágenes**. La etiqueta es `<img>` y tiene atributos que tenemos que conocer.
+
+El primero es `src=""`. Dentro de las comillas ponemos el enlace de una imagen de internet o la ruta de una imagen en nuestra carpeta. Por ejemplo, busquen una imagen, ábranla en pestaña nueva, copien el enlace y péguenlo dentro del `src`. Como ven, la imagen apareció sin ningún problema.
+
+También tenemos el atributo `alt=""`, que es muy importante — nunca lo dejen vacío. Si la imagen no carga, el navegador muestra ese texto en su lugar. Y por último, `width="200"` para controlarle el tamaño, porque si no las imágenes pueden salir enormes.
+
+Y para cerrar, los **enlaces**. La etiqueta es `<a href="">`. Dentro de las comillas del `href` ponemos la URL a la que queremos ir. Y entre la `<a>` que abre y la `</a>` que cierra, escribimos el texto que el usuario va a ver y hacer clic. Por ejemplo: `<a href="https://www.google.com">Visitar Google</a>`.
+
+¡Y aparecen unas letritas en azul que al darles clic nos llevan directo a Google!
+
+¡Y listo! Ya tienen párrafos, listas, imágenes y enlaces en su página. Prueben cambiando los textos o las imágenes y diviértanse un rato. ¡Nos vemos en la siguiente lección!
