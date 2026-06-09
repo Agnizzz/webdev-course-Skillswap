@@ -19,9 +19,9 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟢 **Módulo 1: Conociendo la Web y HTML básico (A cargo de: Luis Angel Becerra Ninahuanca)**
 **Lecciones 1 y 2: ¿Qué es el desarrollo web y cómo empezamos? (12 minutos)**
 * **Descripción:** Vamos a ver de qué están hechas las páginas web y a crear nuestra primera estructura usando las etiquetas básicas de HTML.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://www.youtube.com/watch?v=RR9zbhjcwoA](https://www.youtube.com/watch?v=RR9zbhjcwoA)
 * **Consejos clave:** Los sitios web juntan contenido (HTML) y diseño (CSS). Las etiquetas principales son `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-* **Empieza a programar:** [Abrir CodePen](#)
+* **Empieza a programar:** [https://codepen.io/ELGFE_-06/pen/GgrKWEM](https://codepen.io/ELGFE_-06/pen/GgrKWEM)
 
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
 **Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
