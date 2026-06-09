@@ -4,10 +4,14 @@
 ## Resumen del Curso
 Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web sencillos usando HTML y CSS. ¡No hay que descargar nada! Todo se hace directo en el navegador web.
 
-**Duración total:** ~60 minutos
+**Duración total:** ~60 minutos 
+
 **Público Objetivo:** Estudiantes de 12 a 17 años que no saben nada de programación.
+
 **Prerrequisitos:** Ninguno.
+
 **Herramientas necesarias:** ¡Solo un navegador web! (Chrome, Firefox, Safari, Edge).
+
 **Repositorio de Código Fuente:** [https://github.com/Agnizzz/webdev-course-Skillswap](https://github.com/Agnizzz/webdev-course-Skillswap)
 
 ## Secuencia de la Lección
@@ -22,7 +26,7 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
 **Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
 * **Descripción:** Acá le metemos más onda a la página agregando listas de cosas, fotos y links que te lleven a otros lados de internet.
-* **Enlace:** [(https://www.youtube.com/watch?v=IUwOF8666ms](https://www.youtube.com/watch?v=IUwOF8666ms)
+* **Enlace:** [https://www.youtube.com/watch?v=IUwOF8666ms](https://www.youtube.com/watch?v=IUwOF8666ms)
 * **Consejos clave:** Aprende a usar las etiquetas `<ul>`, `<li>`, `<img>`, y `<a>`.
 * **Práctica:** [https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0](https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0)
 
@@ -52,13 +56,13 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 * ¡Gracias por ver el curso! Anímate a compartir lo que hiciste usando #WebDevBeginners
 
 ## Elaboración
-Universidad Peruana de Ciencias Aplicadas (UPC)
-Carrera de Ingeniería de Software
-Periodo 202610
-1ASI0730 Aplicaciones Web
-NRC: 12190
-Nombre del equipo: Innovify
-Líder del equipo: Meza Soza, Alexandra Yamile
+Universidad Peruana de Ciencias Aplicadas (UPC) <br>
+Carrera de Ingeniería de Software <br>
+Periodo 202610 <br>
+1ASI0730 Aplicaciones Web <br>
+NRC: 12190 <br>
+Nombre del equipo: Innovify <br>
+Líder del equipo: Meza Soza, Alexandra Yamile <br>
 Integrantes del equipo:
 * U20231C792 - Becerra Ninahuanca, Luis Angel
 * U20241E356 - Conde Huashuayo, Sebasthian Alex
