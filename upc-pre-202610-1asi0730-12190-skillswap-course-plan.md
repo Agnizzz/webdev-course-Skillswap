@@ -8,7 +8,7 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 **Público Objetivo:** Estudiantes de 12 a 17 años que no saben nada de programación.
 **Prerrequisitos:** Ninguno.
 **Herramientas necesarias:** ¡Solo un navegador web! (Chrome, Firefox, Safari, Edge).
-**Repositorio de Código Fuente:** [https://github.com/tu-organizacion/webdev-course-tu-equipo](https://github.com/tu-organizacion/webdev-course-tu-equipo)
+**Repositorio de Código Fuente:** [https://github.com/Agnizzz/webdev-course-Skillswap](https://github.com/Agnizzz/webdev-course-Skillswap)
 
 ## Secuencia de la Lección
 
@@ -22,16 +22,16 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
 **Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
 * **Descripción:** Acá le metemos más onda a la página agregando listas de cosas, fotos y links que te lleven a otros lados de internet.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=IUwOF8666ms)
+* **Enlace:** [(https://www.youtube.com/watch?v=IUwOF8666ms](https://www.youtube.com/watch?v=IUwOF8666ms)
 * **Consejos clave:** Aprende a usar las etiquetas `<ul>`, `<li>`, `<img>`, y `<a>`.
-* **Práctica:** [Clic para programar en CodePen](https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0)
+* **Práctica:** [https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0](https://codepen.io/editor/sebasthian-conde-huashuayo/pen/019ea3a2-e056-7b7e-b4ca-e4ab3f3b34b0)
 
 🟠 **Módulo 3: Poniéndolo bonito con CSS (A cargo de: Alexandra Yamile Meza Soza)**
 **Lecciones 5 y 6: Hola CSS, dale color a tu vida (12 minutos)**
 * **Descripción:** HTML es el esqueleto, pero CSS es la ropa. Vamos a aprender a cambiar colores, tipos de letra y a usar selectores.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://www.youtube.com/watch?v=huw8KitKKCE](https://www.youtube.com/watch?v=huw8KitKKCE)
 * **Consejos clave:** Cómo vincular tu archivo CSS y usar reglas básicas como `color` o `font-family`.
-* **Práctica:** [Clic para programar en JSFiddle](#)
+* **Práctica:** [https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47](https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47)
 
 🔵 **Módulo 4: Dando estilo y orden (A cargo de: Victor Manuel Alberca Saavedra)**
 **Lecciones 7 y 8: Ajustando los detalles (12 minutos)**
@@ -48,7 +48,7 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 * **Proyecto final:** [Crea tu Perfil en Replit](#)
 
 ## Recursos Adicionales
-* **Código fuente completo:** [Enlace al Repositorio de GitHub](#)
+* **Código fuente completo:** [https://github.com/Agnizzz/webdev-course-Skillswap](https://github.com/Agnizzz/webdev-course-Skillswap)
 * ¡Gracias por ver el curso! Anímate a compartir lo que hiciste usando #WebDevBeginners
 
 ## Elaboración
@@ -56,9 +56,9 @@ Universidad Peruana de Ciencias Aplicadas (UPC)
 Carrera de Ingeniería de Software
 Periodo 202610
 1ASI0730 Aplicaciones Web
-NRC: [Pon tu NRC aquí]
-Nombre del equipo: [Nombre de tu startup]
-Líder del equipo: [Nombre del líder del grupo]
+NRC: 12190
+Nombre del equipo: Innovify
+Líder del equipo: Meza Soza, Alexandra Yamile
 Integrantes del equipo:
 * U20231C792 - Becerra Ninahuanca, Luis Angel
 * U20241E356 - Conde Huashuayo, Sebasthian Alex
