@@ -40,9 +40,9 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🔵 **Módulo 4: Dando estilo y orden (A cargo de: Victor Manuel Alberca Saavedra)**
 **Lecciones 7 y 8: Ajustando los detalles (12 minutos)**
 * **Descripción:** Vamos a aprender trucos simples para centrar textos, poner colores de fondo y hacer bordes para que todo se vea más ordenado.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://youtu.be/mJk-r8qbN78](https://youtu.be/mJk-r8qbN78)
 * **Consejos clave:** Usar propiedades como `background-color`, `border`, `text-align`.
-* **Práctica:** [Clic para programar en CodePen](#)
+* **Práctica:** [https://codepen.io/Victor-Alberca/pen/dPNoYaQ](https://codepen.io/Victor-Alberca/pen/dPNoYaQ)
 
 🟣 **Módulo 5: Proyecto Final y Consejos (A cargo de: David Komatsu Dueñas)**
 **Lecciones 9 y 10: Armamos tu perfil web y cosas a evitar (12 minutos)**
