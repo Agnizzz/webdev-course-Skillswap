@@ -19,9 +19,9 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟢 **Módulo 1: Conociendo la Web y HTML básico (A cargo de: Luis Angel Becerra Ninahuanca)**
 **Lecciones 1 y 2: ¿Qué es el desarrollo web y cómo empezamos? (12 minutos)**
 * **Descripción:** Vamos a ver de qué están hechas las páginas web y a crear nuestra primera estructura usando las etiquetas básicas de HTML.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://www.youtube.com/watch?v=RR9zbhjcwoA](https://www.youtube.com/watch?v=RR9zbhjcwoA)
 * **Consejos clave:** Los sitios web juntan contenido (HTML) y diseño (CSS). Las etiquetas principales son `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-* **Empieza a programar:** [Abrir CodePen](#)
+* **Empieza a programar:** [https://codepen.io/ELGFE_-06/pen/GgrKWEM](https://codepen.io/ELGFE_-06/pen/GgrKWEM)
 
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
 **Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
@@ -38,11 +38,11 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 * **Práctica:** [https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47](https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47)
 
 🔵 **Módulo 4: Dando estilo y orden (A cargo de: Victor Manuel Alberca Saavedra)**
-**Lecciones 7 y 8: Ajustando los detalles (12 minutos)**
+**Lecciones 7 y 8: Ajustando los detalles (10:35 minutos)**
 * **Descripción:** Vamos a aprender trucos simples para centrar textos, poner colores de fondo y hacer bordes para que todo se vea más ordenado.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://youtu.be/mJk-r8qbN78](https://youtu.be/mJk-r8qbN78)
 * **Consejos clave:** Usar propiedades como `background-color`, `border`, `text-align`.
-* **Práctica:** [Clic para programar en CodePen](#)
+* **Práctica:** [https://codepen.io/Victor-Alberca/pen/dPNoYaQ](https://codepen.io/Victor-Alberca/pen/dPNoYaQ)
 
 🟣 **Módulo 5: Proyecto Final y Consejos (A cargo de: David Komatsu Dueñas)**
 **Lecciones 9 y 10: Armamos tu perfil web y cosas a evitar (12 minutos)**
