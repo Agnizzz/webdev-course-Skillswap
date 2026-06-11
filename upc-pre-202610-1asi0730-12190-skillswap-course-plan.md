@@ -69,4 +69,5 @@ Integrantes del equipo:
 * U20241b451 - Meza Soza, Alexandra Yamile
 * U201924127 - Alberca Saavedra, Victor Manuel
 * U201724692 - Komatsu Dueñas, David
+
 Fecha de entrega: [Fecha de entrega de la Semana 12]
