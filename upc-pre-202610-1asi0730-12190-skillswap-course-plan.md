@@ -47,9 +47,9 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 🟣 **Módulo 5: Proyecto Final y Consejos (A cargo de: David Komatsu Dueñas)**
 **Lecciones 9 y 10: Armamos tu perfil web y cosas a evitar (12 minutos)**
 * **Descripción:** Juntamos todo lo que vimos para hacer una página de perfil personal. Además, te cuento los errores más típicos para que no te pasen.
-* **Enlace:** [Ver la lección](#)
+* **Enlace:** [https://youtu.be/GQNkxLH4WDg](https://youtu.be/GQNkxLH4WDg)
 * **Consejos clave:** Mezclar bien HTML y CSS, cómo encontrar errores y arreglarlos.
-* **Proyecto final:** [Crea tu Perfil en Replit](#)
+* **Proyecto final:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
 
 ## Recursos Adicionales
 * **Código fuente completo:** [https://github.com/Agnizzz/webdev-course-Skillswap](https://github.com/Agnizzz/webdev-course-Skillswap)

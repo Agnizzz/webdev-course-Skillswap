@@ -1,0 +1,108 @@
+/* Formas de agregar estilo: */
+/* 1. ID */
+/* 2. Clase */
+/* 3. Etiqueta */
+h2{
+  font-family: calibri;
+}
+.titulo-llamativo{
+  color: purple;
+}
+#titulo{
+  font-size: 60px;
+  color: red;
+}
+.negrita{
+  font-weight: bold;
+}
+h1{
+  color: green;
+}
+
+
+/* ============================================
+   LECCIÓN 4 – ESTILOS NUEVOS (lo que sigue)
+   ============================================ */
+
+/* COLOR DE FONDO
+   background-color cambia el fondo de cualquier elemento.
+   Puede ser un nombre en inglés (lightblue) o un código hex (#f0f4ff) */
+body {
+  background-color: #f0f4ff;
+}
+
+/* CENTRAR TEXTO
+   text-align: center centra el texto dentro de su elemento.
+   También existe left y right */
+h1 {
+  text-align: center;
+}
+
+/* FONDO Y BORDE EN PÁRRAFOS
+   Podemos combinar background-color con border para resaltar un elemento.
+   border recibe: grosor, tipo de línea y color */
+p {
+  background-color: white;
+  border: 2px solid purple;
+  border-radius: 6px;    /* esquinas redondeadas */
+  padding: 10px;         /* espacio entre el texto y el borde */
+}
+
+/* ESTILOS PARA IMÁGENES
+   Con display: block + margin: 0 auto centramos la imagen horizontalmente.
+   Nota: text-align no funciona en imágenes, por eso usamos margin: 0 auto */
+img {
+  display: block;
+  margin: 0 auto;        /* centra la imagen */
+  width: 300px;          /* fijamos un ancho razonable */
+  border: 3px solid purple;
+  border-radius: 8px;    /* esquinas redondeadas en la imagen */
+  margin-bottom: 15px;   /* separación entre imágenes */
+}
+
+#tarjeta-perfil {
+  brackground-color: purple;
+  text-align: center;
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+#tarjeta-perfil {
+  color: white;
+  font-size: 45px;
+}
+
+#foto-perfil{
+  width: 150px;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+
+.subtitulo {
+  color: #e8d5ff;
+  background: none;
+  border: none;
+  font-size: 25px;
+}
+
+.boton-red {
+  display: inline-block;
+  background-color: purple;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+
+#pie {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#pie p{
+  background: none;
+  border: none;
+  color: purple;
+}
