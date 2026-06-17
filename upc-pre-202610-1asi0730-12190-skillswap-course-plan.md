@@ -17,14 +17,14 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 ## Secuencia de la Lección
 
 🟢 **Módulo 1: Conociendo la Web y HTML básico (A cargo de: Luis Angel Becerra Ninahuanca)**
-**Lecciones 1 y 2: ¿Qué es el desarrollo web y cómo empezamos? (12 minutos)**
+**Lecciones 1 y 2: ¿Qué es el desarrollo web y cómo empezamos? (10 minutos)**
 * **Descripción:** Vamos a ver de qué están hechas las páginas web y a crear nuestra primera estructura usando las etiquetas básicas de HTML.
 * **Enlace:** [https://www.youtube.com/watch?v=RR9zbhjcwoA](https://www.youtube.com/watch?v=RR9zbhjcwoA)
 * **Consejos clave:** Los sitios web juntan contenido (HTML) y diseño (CSS). Las etiquetas principales son `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 * **Empieza a programar:** [https://codepen.io/ELGFE_-06/pen/GgrKWEM](https://codepen.io/ELGFE_-06/pen/GgrKWEM)
 
 🟡 **Módulo 2: Poniendo más cosas en la página (A cargo de: Sebasthian Alex Conde Huashuayo)**
-**Lecciones 3 y 4: Imágenes, listas y enlaces (12 minutos)**
+**Lecciones 3 y 4: Imágenes, listas y enlaces (14 minutos)**
 * **Descripción:** Acá le metemos más onda a la página agregando listas de cosas, fotos y links que te lleven a otros lados de internet.
 * **Enlace:** [https://www.youtube.com/watch?v=IUwOF8666ms](https://www.youtube.com/watch?v=IUwOF8666ms)
 * **Consejos clave:** Aprende a usar las etiquetas `<ul>`, `<li>`, `<img>`, y `<a>`.
@@ -38,14 +38,14 @@ Este curso de 1 hora le enseña a chicos de secundaria cómo armar sitios web se
 * **Práctica:** [https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47](https://codepen.io/editor/AlexandraYMS/pen/019ea93b-263c-7a80-8b28-b46d8b9cdc47)
 
 🔵 **Módulo 4: Dando estilo y orden (A cargo de: Victor Manuel Alberca Saavedra)**
-**Lecciones 7 y 8: Ajustando los detalles (10:35 minutos)**
+**Lecciones 7 y 8: Ajustando los detalles (11 minutos)**
 * **Descripción:** Vamos a aprender trucos simples para centrar textos, poner colores de fondo y hacer bordes para que todo se vea más ordenado.
 * **Enlace:** [https://youtu.be/mJk-r8qbN78](https://youtu.be/mJk-r8qbN78)
 * **Consejos clave:** Usar propiedades como `background-color`, `border`, `text-align`.
 * **Práctica:** [https://codepen.io/Victor-Alberca/pen/dPNoYaQ](https://codepen.io/Victor-Alberca/pen/dPNoYaQ)
 
 🟣 **Módulo 5: Proyecto Final y Consejos (A cargo de: David Komatsu Dueñas)**
-**Lecciones 9 y 10: Armamos tu perfil web y cosas a evitar (12 minutos)**
+**Lecciones 9 y 10: Armamos tu perfil web y cosas a evitar (18 minutos)**
 * **Descripción:** Juntamos todo lo que vimos para hacer una página de perfil personal. Además, te cuento los errores más típicos para que no te pasen.
 * **Enlace:** [https://youtu.be/GQNkxLH4WDg](https://youtu.be/GQNkxLH4WDg)
 * **Consejos clave:** Mezclar bien HTML y CSS, cómo encontrar errores y arreglarlos.
