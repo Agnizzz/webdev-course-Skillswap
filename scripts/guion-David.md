@@ -1,4 +1,4 @@
-# Guion: Lección 9 - Armamos tu perfil web (David Komatsu)
+# Guion Módulo 5: Armamos tu perfil web (David Komatsu)
 
 **[0:00 - 0:50] Introducción:** "¡Hola! Bienvenidos al módulo final del curso. Mis compañeros ya te enseñaron HTML, listas, imágenes, links, CSS y cómo darle estilo a todo. Hoy vamos a tomar exactamente esa página que veníamos construyendo y la vamos a convertir en algo real: **tu perfil web personal**. Y al final te cuento los errores más típicos para que no te frustres cuando te pasen."
 

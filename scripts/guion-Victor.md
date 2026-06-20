@@ -1,8 +1,4 @@
-# Guión – Lección 4: Estilos Simples con CSS
-**Duración estimada:** ~12 minutos  
-**Tema:** Colores de fondo, centrar contenido y bordes
-
----
+# Guion Módulo 4: Estilos Simples con CSS
 
 ¡Hola a todos! ¿Cómo están? En el video anterior ya aprendieron a agregar párrafos,
 listas, imágenes y enlaces a una página web. ¡Quedó genial!

@@ -1,4 +1,4 @@
-# Estilos en CSS
+# Guion Módulo 3: Poniéndolo bonito con CSS
 
 ¡Hola! En la lección anterior aprendimos cómo agregarle contenido a nuestra primera página web. Por ahora, nuestra página sigue viéndose bastante simple, así que en la lección de hoy aprenderemos cómo cambiar el color, el tipo de fuente, el grosor y hasta el tamaño de las letras de nuestro texto.
 
